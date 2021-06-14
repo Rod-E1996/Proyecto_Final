@@ -1,0 +1,68 @@
+.bcg{
+    background-color: #786895 !important;
+}
+.hepatitis_a{
+    background-color: #b4668a !important;
+}
+.hepatitis_b{
+    background-color: #f9a56e !important;
+}
+.pentavalente{
+    background-color: #7095c5 !important;
+}
+.dpt{
+    background-color: #face3e !important;
+}
+.rotavirus{
+    background-color: #639a5b !important;
+}
+.neumococica{
+    background-color: #6ab7e7 !important;
+}
+.meningococo{
+    background-color: #5dcfb7 !important;
+}
+.varicela{
+    background-color: #84c179 !important;
+}
+.influenza{
+    background-color: #fc9ac1 !important;
+}
+.refuerzo_influenza{
+    background-color: #cd85a3 !important;
+}
+.srp{
+    background-color: #736ba3 !important;
+}
+.sabin{
+    background-color: #ac6597 !important;
+}
+.tdap{
+    background-color: #ac6597 !important;
+}
+.sarampion{
+    background-color: #f3825c !important;
+}
+.vph{
+    background-color: #c15493 !important;
+}
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.301);
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: gray;
+}
+.login{
+    height: 60px !important;
+}
+.row-login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}

@@ -1,0 +1,9 @@
+Descargar el js de datatable
+
+https://cdn.datatables.net/v/bs4/dt-1.10.18/datatables.min.js
+
+
+Agregar la edad del paciente cada vez que se crea una consulta pediatrica
+
+************
+Me quedé en hacer los detalles de las consultas e imprimir el resumen por cada consulta
